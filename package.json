@@ -1,7 +1,7 @@
 {
-  "name": "koa-pg-session",
+  "name": "Mkoa-pg-session",
   "version": "2.0.0",
-  "description": "A session store implementation for koa's generic-session module, using postgres as the backend",
+  "description": "¾ÓÓÚkoa-pg-sessionÐÞ¸Ä",
   "keywords": [
     "session",
     "cookies",
@@ -25,7 +25,7 @@
     "type": "git",
     "url": "https://github.com/TMiguelT/koa-pg-session"
   },
-  "author": "Michael Milton <michael.r.milton@gmail.com> (http://protomeric.com/)",
+  "author": "Megic",
   "bugs": {
     "url": "https://github.com/TMiguelT/koa-pg-session/issues"
   },
